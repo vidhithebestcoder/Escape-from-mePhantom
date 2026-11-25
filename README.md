@@ -1,74 +1,22 @@
-### Hi! Welcome to your VS Code Space!
+"""
+INTRO:
+Hello this is my Escape From Me phantom game.
+I spent about 3.5 hours on this game
+I am excited for you to try it
 
-You can use this just like VS Code on your own computer. Your space is a full Linux machine (Ubuntu) that's yours alone, and you have admin access, so you can install whatever you need with `sudo`.
+HOW TO PLAY:
+You enter the correct answer in the rooms and it will automatically take you to the next room
 
-#### Good to know
+DISCLAIMER:
+I made this game off of my other game for folktale.
+I did not copy any of the code, I just used it for reference.
 
-- **Your space stops by itself after 3 hours.** Everything is saved when it stops: your files, the tools you install and your settings. Start it again from the dashboard and you're right back where you left off.
-- **Only one space can run at a time.** Stop this one before starting another.
-- **Previewing a website you're building:** run it, then open `/proxy/<port>/` on this space's address, for example `/proxy/3000/` for something running on port 3000.
+WHY I MADE THIS:
+I made this code because I wanted to build a similar game off of my Folktale game
+I wanted to make it better and I wanted to make it in less time
 
-#### Hackatime
+CHALLENGES:
+When I was making my code I had to refer a lot to my Hello Granny game for Folktale, but I still managed to code it without any errors. I ran into a couple of walls, but I managed to overcome them. It was just a few errors that I had coded wrong, like I had forgotten to change some of the definition names and I forgot to add quotes around some things.
 
-If you added your Hackatime API key in Settings before creating this space, Hackatime is already set up and tracking your time, under this space's name. If you added it later, install the "WakaTime" extension and paste your key when it asks.
-
-#### Already installed
-
-##### General
-```
-git
-github-cli (gh)
-curl
-wget
-nano
-vim
-zip
-unzip
-jq
-tree
-tmux
-less
-ripgrep (rg)
-rsync
-```
-
-##### Python
-```
-python3
-pip
-uv
-```
-
-##### JavaScript
-```
-node
-npm
-pnpm
-bun
-```
-
-##### Database
-```
-sqlite3
-```
-
-#### Installing more
-
-Use `apt` for anything else. Some common ones:
-
-| What | Command |
-|---|---|
-| C/C++ compilers and `make` (many npm and pip packages need these) | `sudo apt install -y build-essential cmake pkg-config` |
-| Java | `sudo apt install -y openjdk-21-jdk` |
-| Go | `sudo apt install -y golang` |
-| Rust | `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs \| sh` |
-| PHP | `sudo apt install -y php-cli` |
-| Ruby | `sudo apt install -y ruby-full` |
-| Yarn | `npm install -g yarn` |
-| PostgreSQL, MySQL and Redis clients | `sudo apt install -y postgresql-client mysql-client redis-tools` |
-| ffmpeg and ImageMagick | `sudo apt install -y ffmpeg imagemagick` |
-| htop | `sudo apt install -y htop` |
-
-Run `sudo apt update` first if a package isn't found.
-
-If something you need won't install, or isn't working, ask in #spaces on Slack!
+Thank you for reading my readme! 
+"""
